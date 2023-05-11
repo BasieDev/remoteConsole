@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
     const password = loginForm.password.value;
 
     if (username === "admin" && password === "admin") {
-        location.href = '/Users/basie/Desktop/remoteConsole/src/consolePage/consolePage.html';
+        location.href = 'consolePage/consolePage.html';
     }
     else {
         loginErrorMsg.style.opacity = 1;
