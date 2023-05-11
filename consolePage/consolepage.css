@@ -1,0 +1,14 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial;
+}
+
+p {
+    text-align: center;
+}
+
+input {
+    align-items: center;
+}
